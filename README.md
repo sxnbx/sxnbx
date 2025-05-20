@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Anna</h1>
+<h1 align="center">Hi 👋, I'm Anna Nguyen</h1>
 <h3 align="center">Aspiring Data Analyst | Turning Patterns into Possibilities</h3>
 
 <div align="center">
