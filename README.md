@@ -11,7 +11,7 @@
 
 ---
 
-- 🔭 I’m currently working on **building my portfolio**
+- 🔭 I’m currently working on **building my data analyst portfolio**
 - 🌱 I’m currently learning **how to code using MySQL**
 - 🤝 I’m looking for help with **learning SQL and Python**
 - 📫 Reach me at **annanguyenahn@gmail.com**
