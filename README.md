@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **annanguyenahn@gmail.com**
 
-- ⚡ Fun fact **“Art taught me to see patterns—data taught me to make sense of them**
+- ⚡ Fun fact **Art taught me to see patterns—data taught me to make sense of them**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
