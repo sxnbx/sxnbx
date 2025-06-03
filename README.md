@@ -9,7 +9,7 @@
 </div>
 
 
----
+--- 
 
 - 🔭 I’m currently working on **building my data analyst portfolio**
 - 🌱 I’m currently learning **how to code using MySQL** 
